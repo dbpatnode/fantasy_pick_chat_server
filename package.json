@@ -5,9 +5,13 @@
   "scripts": {
     "devStart": "nodemon server.js"
   },
+  "repository": "git@github.com:dbpatnode/fantasy_pick_chat_server.git",
+  "author": "dbpatnodee <dbpatnode@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nodemon": "^2.0.6",
-    "socket.io": "^3.0.3"
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
